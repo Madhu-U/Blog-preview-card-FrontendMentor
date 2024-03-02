@@ -6,7 +6,8 @@
     --clr-title: hsl(0, 0%, 7%);
 
     /* font properties */
-    --ff-figtree: "figtree", "sans-seriff";
+    --ff-figtree: "Figtree", sans-serif;
+    ;
     --fs-medium: 1rem;
     --fw-regular: 500;
     --fw-bold: 800;
